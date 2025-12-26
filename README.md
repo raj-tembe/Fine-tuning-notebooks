@@ -3,6 +3,7 @@
 > A collection of Jupyter notebooks demonstrating basic fine-tuning experiments with language models.
 
 This repository contains hands-on notebooks that explore **fine-tuning workflows** for different models, including tests with LLaMA-style models. The intent is to experiment with model adaptation on custom data or tasks and to learn fine-tuning fundamentals using notebook-based examples.
+(⚠️ Note: this is a learning repository — there may be rough edges or beginner-level code.)
 
 ---
 
@@ -14,7 +15,6 @@ This repository contains hands-on notebooks that explore **fine-tuning workflows
 | `finetuning_test_llama_model.ipynb` | A notebook focused on fine-tuning a LLaMA-style model. |
 | `.gitignore` | Standard ignore patterns for Python & notebooks. |
 | `LICENSE` | MIT License for this project. |
-| `test video original.mp4`, `test video2.mp4`, `you never eat candy you.mp4` | Video files (likely demos or recordings related to experiments). |
 
 ---
 
